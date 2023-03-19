@@ -1,0 +1,5 @@
+# Created at 2023-03-19T10:11:55.029
+Boot Manifest-JAR contains absolute paths in classpath 'F:\Programação\Java\Java Apps\QR Code\QR Generator 1 (Java)\qrgenerator\target\test-classes'
+Hint: <argLine>-Djdk.net.URLClassPath.disableClassPathURLCheck=true</argLine>
+'other' has different root
+

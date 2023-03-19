@@ -1,0 +1,24 @@
+{
+    "java.project.referencedLibraries": [
+        "lib/*.jar"
+    ],
+    "java.configuration.runtimes": [
+        {
+            "name": "JavaSE-11",
+            "path": "/usr/lib/jvm/java-11-openjdk-amd64/bin/java"
+        },
+        {
+            "name": "Zxing",
+            "path": "F:/Programação/Java/Java Apps/QR Code/QR Generator 1 (Java)/qrgenerator/lib/core-3.5.1.jar",
+            "sources": "F:/Programação/Java/Java Apps/QR Code/QR Generator 1 (Java)/qrgenerator/lib/core-3.5.1-sources.jar"
+        },
+        {
+            "name": "Zxing",
+            "path": "F:/Programação/Java/Java Apps/QR Code/QR Generator 1 (Java)/qrgenerator/lib/javase-3.5.1.jar",
+            "sources": "F:/Programação/Java/Java Apps/QR Code/QR Generator 1 (Java)/qrgenerator/lib/javase-3.5.1-sources.jar"
+        }
+    ]
+}
+
+
+
